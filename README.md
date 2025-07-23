@@ -84,7 +84,4 @@ Runs on [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 🧑‍💻 Author
 
-**PREM KUMAR PAINKRA** – 
-Feel free to connect or contribute!
